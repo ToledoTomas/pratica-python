@@ -69,7 +69,3 @@
 # thislist.sort(key = myfunc)
 # print(thislist)
 
-# usuarios = [["Usuario 1", 1],["Usuario 2", 2],["Usuario 3", 3]]
-# usuarios.sort(key = lambda el: el[1], reverse=True)
-# print(usuarios)
-
