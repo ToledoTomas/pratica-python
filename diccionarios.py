@@ -1,7 +1,8 @@
 # diccionario = {
 #     "nombre": "Mono",
 #     "edad" : 26,
-#     "email": "email@prueba.com"
+#     "email": "email@prueba.com",
+#     "ojo": 2
 # }
 
 # nombre = diccionario["nombre"]
